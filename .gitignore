@@ -1,0 +1,26 @@
+# Local outputs and development artifacts
+/build/
+/docs/
+/require/
+/.codex/
+/.publish/
+.vscode/
+.idea/
+*.out
+*.obj
+*.o
+*.exe
+*.log
+*.map
+*.zip
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.drawio
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
